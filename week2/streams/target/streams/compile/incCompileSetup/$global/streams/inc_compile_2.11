@@ -1,0 +1,531 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+46 items
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\common\package$$anonfun$subFile$1.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\common\package$.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\common\package.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\Bloxorz$.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\Bloxorz$InfiniteLevel$.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\Bloxorz$Level.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\Bloxorz$Level0$.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\Bloxorz$Level1$.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\Bloxorz$delayedInit$body.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\Bloxorz.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\GameDef$Block$$anonfun$1.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\GameDef$Block$$anonfun$legalNeighbors$1.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\GameDef$Block$.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\GameDef$Block.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\GameDef$Down$.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\GameDef$Left$.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\GameDef$Move.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\GameDef$Pos$.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\GameDef$Pos.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\GameDef$Right$.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\GameDef$Up$.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\GameDef$class.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\GameDef.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\InfiniteTerrain.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\InfiniteTerrain$$anonfun$1.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\InfiniteTerrain.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\InfiniteTerrain$class.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\InfiniteTerrain.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\InfiniteTerrain.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\Solver$$anonfun$1.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\Solver$$anonfun$2$$anonfun$apply$1.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\Solver$$anonfun$2.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\Solver$$anonfun$from$1$$anonfun$apply$2.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\Solver$$anonfun$from$1.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\Solver$$anonfun$neighborsWithHistory$1.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\Solver$$anonfun$neighborsWithHistory$2.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\Solver$$anonfun$newNeighborsOnly$1.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\Solver$$anonfun$pathsFromStart$1.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\Solver$$anonfun$pathsFromStart$2.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\Solver$$anonfun$pathsToGoal$1.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\Solver$$anonfun$pathsToGoal$2.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\Solver$$anonfun$pathsToGoal$3.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\Solver$class.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\Solver.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\StringParserTerrain$$anonfun$1.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\StringParserTerrain$$anonfun$streams$StringParserTerrain$$vector$1.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\StringParserTerrain$$anonfun$terrainFunction$1.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\StringParserTerrain$class.class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\StringParserTerrain.class
+binary dependencies:
+12 items
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> C:\Program Files\Java\jre1.8.0_91\lib\rt.jar
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> C:\Users\vvpy\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> C:\Program Files\Java\jre1.8.0_91\lib\rt.jar
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> C:\Users\vvpy\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> C:\Program Files\Java\jre1.8.0_91\lib\rt.jar
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> C:\Users\vvpy\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\InfiniteTerrain.scala -> C:\Program Files\Java\jre1.8.0_91\lib\rt.jar
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\InfiniteTerrain.scala -> C:\Users\vvpy\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> C:\Program Files\Java\jre1.8.0_91\lib\rt.jar
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> C:\Users\vvpy\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> C:\Program Files\Java\jre1.8.0_91\lib\rt.jar
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> C:\Users\vvpy\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+7 items
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\InfiniteTerrain.scala
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\InfiniteTerrain.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+6 items
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\InfiniteTerrain.scala
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\InfiniteTerrain.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala
+inheritance external dependencies:
+0 items
+class names:
+46 items
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> common.package
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> common.package$
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> common.package$$anonfun$subFile$1
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> streams.Bloxorz
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> streams.Bloxorz$
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> streams.Bloxorz$InfiniteLevel$
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> streams.Bloxorz$Level
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> streams.Bloxorz$Level0$
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> streams.Bloxorz$Level1$
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> streams.Bloxorz$delayedInit$body
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> streams.GameDef
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> streams.GameDef$Block
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> streams.GameDef$Block$
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> streams.GameDef$Block$$anonfun$1
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> streams.GameDef$Block$$anonfun$legalNeighbors$1
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> streams.GameDef$Down$
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> streams.GameDef$Left$
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> streams.GameDef$Move
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> streams.GameDef$Pos
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> streams.GameDef$Pos$
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> streams.GameDef$Right$
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> streams.GameDef$Up$
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> streams.GameDef$class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\InfiniteTerrain.scala -> streams.InfiniteTerrain
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\InfiniteTerrain.scala -> streams.InfiniteTerrain$$anonfun$1
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\InfiniteTerrain.scala -> streams.InfiniteTerrain$class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> streams.Solver
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> streams.Solver$$anonfun$1
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> streams.Solver$$anonfun$2
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> streams.Solver$$anonfun$2$$anonfun$apply$1
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> streams.Solver$$anonfun$from$1
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> streams.Solver$$anonfun$from$1$$anonfun$apply$2
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> streams.Solver$$anonfun$neighborsWithHistory$1
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> streams.Solver$$anonfun$neighborsWithHistory$2
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> streams.Solver$$anonfun$newNeighborsOnly$1
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> streams.Solver$$anonfun$pathsFromStart$1
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> streams.Solver$$anonfun$pathsFromStart$2
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> streams.Solver$$anonfun$pathsToGoal$1
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> streams.Solver$$anonfun$pathsToGoal$2
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> streams.Solver$$anonfun$pathsToGoal$3
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> streams.Solver$class
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> streams.StringParserTerrain
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> streams.StringParserTerrain$$anonfun$1
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> streams.StringParserTerrain$$anonfun$streams$StringParserTerrain$$vector$1
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> streams.StringParserTerrain$$anonfun$terrainFunction$1
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> streams.StringParserTerrain$class
+used names:
+240 items
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> ::
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> <init>
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> <repeated>
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> Any
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> AnyRef
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> File
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> FileInputStream
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> InputStream
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> List
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> None
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> Nothing
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> Option
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> Predef
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> String
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> _root_
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> child
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> children
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> classesDir
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> common
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> exists
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> file
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> foldLeft
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> getClass
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> getParentFile
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> getResource
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> io
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> java
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> package
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> projectDir
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> resourceFile
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> resourcePath
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> scala
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> subFile
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> toURI
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> <init>
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> App
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> Bloxorz
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> InfiniteLevel
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> InfiniteTerrain
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> Level
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> Level0
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> Level1
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> Predef
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> Solver
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> StringParserTerrain
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> augmentString
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> goal
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> level
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> println
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> scala
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> solution
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> startPos
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> streams
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> stripMargin
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> &&
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> +
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> ::
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> <=
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> <init>
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> ==
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> AbstractFunction2
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> AnyRef
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> Block
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> Boolean
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> Down
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> Function1
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> GameDef
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> Int
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> Left
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> List
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> Move
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> Nil
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> None
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> Pos
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> Predef
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> Product
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> Right
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> ScalaRunTime
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> Serializable
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> Statics
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> Terrain
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> Tuple2
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> Up
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> _1
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> _hashCode
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> _root_
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> _toString
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> apply
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> asInstanceOf
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> b1
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> b2
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> block
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> common
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> d
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> d1
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> d2
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> down
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> dx
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> dy
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> eq
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> filter
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> finalizeHash
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> immutable
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> isInstanceOf
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> isLegal
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> isStanding
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> left
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> mix
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> ne
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> neighbors
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> package
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> require
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> right
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> runtime
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> scala
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> startPos
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> streams
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> terrain
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> toString
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> typedProductIterator
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> up
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> x
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> x$5
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> x$6
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> y
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> ||
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\InfiniteTerrain.scala -> GameDef
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\InfiniteTerrain.scala -> InfiniteTerrain
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\InfiniteTerrain.scala -> Pos
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\InfiniteTerrain.scala -> Terrain
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\InfiniteTerrain.scala -> streams
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\InfiniteTerrain.scala -> terrain
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> #:::
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> &&
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> ++
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> ::
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> <init>
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> ==
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> Block
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> Boolean
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> GameDef
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> List
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> Move
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> Nil
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> Predef
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> Set
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> Solver
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> Stream
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> Tuple2
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> _1
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> _2
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> apply
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> b
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> b1
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> block
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> canBuildFrom
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> common
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> consWrapper
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> contains
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> done
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> empty
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> explored
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> filter
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> flatMap
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> from
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> goal
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> head
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> history
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> immutable
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> initial
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> isEmpty
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> isStanding
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> legalNeighbors
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> map
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> more
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> move
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> moves
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> ne
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> neighbors
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> neighborsWithHistory
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> newNeighborsOnly
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> next
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> package
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> pathsFromStart
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> pathsToGoal
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> reverse
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> scala
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> startBlock
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> streams
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> toStream
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> unary_!
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> unchecked
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> withFilter
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> x
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> y
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> !=
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> -
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> <
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> Array
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> Boolean
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> Char
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> ClassTag
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> Function1
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> GameDef
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> Pos
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> Predef
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> String
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> StringParserTerrain
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> Terrain
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> Vector
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> _root_
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> apply
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> c
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> canBuildFrom
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> col
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> common
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> contains
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> findChar
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> indexOf
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> indexWhere
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> length
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> level
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> levelVector
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> map
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> materializeClassTag
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> p
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> package
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> refArrayOps
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> row
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> scala
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> split
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> str
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> streams
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> terrainFunction
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> v
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> vector
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> wrapString
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> x
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> y
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> ||
+product stamps:
+46 items
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\common\package$$anonfun$subFile$1.class -> lastModified(1472469133899)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\common\package$.class -> lastModified(1472469133878)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\common\package.class -> lastModified(1472469133775)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\Bloxorz$.class -> lastModified(1472469133936)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\Bloxorz$delayedInit$body.class -> lastModified(1472469134050)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\Bloxorz$InfiniteLevel$.class -> lastModified(1472469133986)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\Bloxorz$Level.class -> lastModified(1472469134027)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\Bloxorz$Level0$.class -> lastModified(1472469134034)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\Bloxorz$Level1$.class -> lastModified(1472469134042)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\Bloxorz.class -> lastModified(1472469133915)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\GameDef$Block$$anonfun$1.class -> lastModified(1472476255570)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\GameDef$Block$$anonfun$legalNeighbors$1.class -> lastModified(1472476255584)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\GameDef$Block$.class -> lastModified(1472476255509)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\GameDef$Block.class -> lastModified(1472476255555)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\GameDef$class.class -> lastModified(1472476255682)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\GameDef$Down$.class -> lastModified(1472476255598)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\GameDef$Left$.class -> lastModified(1472476255610)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\GameDef$Move.class -> lastModified(1472476255620)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\GameDef$Pos$.class -> lastModified(1472476255631)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\GameDef$Pos.class -> lastModified(1472476255651)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\GameDef$Right$.class -> lastModified(1472476255663)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\GameDef$Up$.class -> lastModified(1472476255674)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\GameDef.class -> lastModified(1472476255492)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\InfiniteTerrain$$anonfun$1.class -> lastModified(1472469134233)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\InfiniteTerrain$class.class -> lastModified(1472469134238)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\InfiniteTerrain.class -> lastModified(1472469134226)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\Solver$$anonfun$1.class -> lastModified(1472635993402)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\Solver$$anonfun$2$$anonfun$apply$1.class -> lastModified(1472635993424)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\Solver$$anonfun$2.class -> lastModified(1472635993414)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\Solver$$anonfun$from$1$$anonfun$apply$2.class -> lastModified(1472635993439)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\Solver$$anonfun$from$1.class -> lastModified(1472635993432)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\Solver$$anonfun$neighborsWithHistory$1.class -> lastModified(1472635993446)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\Solver$$anonfun$neighborsWithHistory$2.class -> lastModified(1472635993456)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\Solver$$anonfun$newNeighborsOnly$1.class -> lastModified(1472635993469)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\Solver$$anonfun$pathsFromStart$1.class -> lastModified(1472635993509)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\Solver$$anonfun$pathsFromStart$2.class -> lastModified(1472635993521)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\Solver$$anonfun$pathsToGoal$1.class -> lastModified(1472635993533)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\Solver$$anonfun$pathsToGoal$2.class -> lastModified(1472635993567)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\Solver$$anonfun$pathsToGoal$3.class -> lastModified(1472635993577)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\Solver$class.class -> lastModified(1472635993594)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\Solver.class -> lastModified(1472635993386)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\StringParserTerrain$$anonfun$1.class -> lastModified(1472471975008)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\StringParserTerrain$$anonfun$streams$StringParserTerrain$$vector$1.class -> lastModified(1472471975020)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\StringParserTerrain$$anonfun$terrainFunction$1.class -> lastModified(1472471975033)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\StringParserTerrain$class.class -> lastModified(1472471975054)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\target\scala-2.11\classes\streams\StringParserTerrain.class -> lastModified(1472471974961)
+source stamps:
+6 items
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> hash(1f1e1210e763c5fc0c82387ec0ddc39a929d9118)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> hash(a9ebf488100fe40857d746a61167616012baebfa)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\InfiniteTerrain.scala -> hash(bb43830f6c61b8ab29553af959146eb9d8850dff)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> hash(67981c7ec2eec39e6aa701bc43b80d7be670f948)
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> hash(e3bb8325f931203be5304b145e184260dd863cdf)
+binary stamps:
+2 items
+C:\Program Files\Java\jre1.8.0_91\lib\rt.jar -> lastModified(1468578579488)
+C:\Users\vvpy\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+2 items
+C:\Program Files\Java\jre1.8.0_91\lib\rt.jar -> java.lang.Object
+C:\Users\vvpy\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar -> scala.collection.generic.FilterMonadic
+internal apis:
+6 items
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCH2I3RAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMm+MXx0AAZub3RpZnlzcQB+AAyE/M00dAAHcGFja2FnZXNxAH4ADCYSurZ0AAR3YWl0c3EAfgAM8efqjHQADSRhc0luc3RhbmNlT2ZzcQB+AAzNivwPdAAGZXF1YWxzc3EAfgAM8WxUaXQADGFzSW5zdGFuY2VPZnNxAH4ADM7IhUp0AAxzeW5jaHJvbml6ZWRzcQB+AAxYw5T1dAANJGlzSW5zdGFuY2VPZnNxAH4ADKo9iEt0ABdyZXNvdXJjZUFzU3RyZWFtRnJvbVNyY3NxAH4ADIN8vFN0AAlub3RpZnlBbGxzcQB+AAwmJKnKdAAMaXNJbnN0YW5jZU9mc3EAfgAMacTab3QAAz8/P3NxAH4ADJp6YJF0AAI9PXNxAH4ADPKN8FN0AAVjbG9uZXNxAH4ADGdM1iN0AAdzdWJGaWxlc3EAfgAMJCvh6HQACHRvU3RyaW5nc3EAfgAMP7rEanQAAiE9c3EAfgAMCJe6qnQACGdldENsYXNzc3EAfgAMCCpDk3QAAm5lc3EAfgAMGnQJi3QAAmVxc3EAfgAMkxI1z3QAAiMjc3EAfgAMjXTkU3QACGZpbmFsaXplc3EAfgAMVNQ/iHQACGhhc2hDb2Rlc3EAfgAMe21E9HQAAyoqKnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA5jb21tb24ucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGB4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF8Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AaHNxAH4AXwF1cQB+AEIAAAAAcHNxAH4AXwF1cQB+AEIAAAAAcHNxAH4AXwF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGd0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIB0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIFzcQB+AHR0AANBbnlzcQB+AHhzcQB+AHt1cQB+AH4AAAACc3EAfgCAdAAFc2NhbGFxAH4Ah3BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGY29tbW9uc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFW1f/XY3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEhDOlxkZXZcYXBwXGNvdXJzZXJhXFNjYWxhXDAyLUZQRFx3ZWVrMlxzdHJlYW1zXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSIW48SpbKoPa1lj3bMH91nijjUqA==
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC3rCbVAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAATnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cFtRjxZ0AARkb3duc3EAfgAMEWMC33QABm5vdGlmeXNxAH4ADAgaBWl0AAd1bmFwcGx5c3EAfgAMrnJIqXQAB2N1cnJpZWRzcQB+AAx8tPJcdAAFTGV2ZWxzcQB+AAwTP9m8dAABeHNxAH4ADBJFKlh0AAR3YWl0c3EAfgAMs4p91HQAAmIyc3EAfgAMZP7qXnQADmxlZ2FsTmVpZ2hib3Jzc3EAfgAM9PAMGHQADmNvcHkkZGVmYXVsdCQyc3EAfgAM1xqqZ3QADSRhc0luc3RhbmNlT2ZzcQB+AAwykKc+dAACZHlzcQB+AAwo4QXidAAQbmV3TmVpZ2hib3JzT25seXNxAH4ADIQRBCF0AAZMZXZlbDBzcQB+AAyAG1D+dAAMcHJvZHVjdEFyaXR5c3EAfgAM1mk9W3QADnBhdGhzRnJvbVN0YXJ0c3EAfgAMUdQE93QABmVxdWFsc3NxAH4ADIBy1oJ0AAF5c3EAfgAMNkp6THQAAnVwc3EAfgAMl5oyxHQAB0Jsb3hvcnpzcQB+AAygdC3RdAAMYXNJbnN0YW5jZU9mc3EAfgAMeCmWpXQADmV4ZWN1dGlvblN0YXJ0c3EAfgAMHVUz1HQACW5laWdoYm9yc3NxAH4ADM9i8Ch0AAxzeW5jaHJvbml6ZWRzcQB+AAy/qnjqdAAEbGVmdHNxAH4ADJxEZjN0AA0kaXNJbnN0YW5jZU9mc3EAfgAMHadMeXQABnR1cGxlZHNxAH4ADCQY8At0AARnb2Fsc3EAfgAMB8UEsXQAAmIxc3EAfgAM+7kE3nQACGNhbkVxdWFsc3EAfgAMsdIUxHQABG1haW5zcQB+AAxGBu+ldAAPdGVycmFpbkZ1bmN0aW9uc3EAfgAMTSe6k3QADXByb2R1Y3RQcmVmaXhzcQB+AAz5MfdMdAAGTGV2ZWwxc3EAfgAMmqMr7nQACW5vdGlmeUFsbHNxAH4ADFzei390AAtyZWFkUmVzb2x2ZXNxAH4ADMdfmlh0AAxpc0luc3RhbmNlT2ZzcQB+AAxT5exhdAAIc29sdXRpb25zcQB+AAwVwUsAdAAGPGluaXQ+c3EAfgAM7R0aIXQABE1vdmVzcQB+AAwoNaaHdAAFYXBwbHlzcQB+AAw8DsV7dAACPT1zcQB+AAw4Zq6EdAAERG93bnNxAH4ADBwMvvJ0AARMZWZ0c3EAfgAMYC6S6nQABWNsb25lc3EAfgAM69Te23QAB3RlcnJhaW5zcQB+AAzd9zihdAALcGF0aHNUb0dvYWxzcQB+AAwsSkU2dAAEZnJvbXNxAH4ADOotF+d0AAdpc0xlZ2Fsc3EAfgAMgZ9v8XQACnN0YXJ0QmxvY2tzcQB+AAzvRBsJdAAKaXNTdGFuZGluZ3NxAH4ADHgsITp0AAJVcHNxAH4ADKXW6yJ0AARjb3B5c3EAfgAMb5qiLHQABGRvbmVzcQB+AAxePmqQdAAIdG9TdHJpbmdzcQB+AAx2Dd35dAAEYXJnc3NxAH4ADB8zUyF0AAhmaW5kQ2hhcnNxAH4ADOoNkot0AA1JbmZpbml0ZUxldmVsc3EAfgAMRA53NnQAA1Bvc3NxAH4ADEFN3gJ0AAIhPXNxAH4ADDm6s2J0AAhnZXRDbGFzc3NxAH4ADMV6mWt0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADFkzoId0AAJkeHNxAH4ADAhINjt0ABRuZWlnaGJvcnNXaXRoSGlzdG9yeXNxAH4ADCfexMB0AAdUZXJyYWluc3EAfgAMPNnO73QAAm5lc3EAfgAMhlw+RnQACHN0YXJ0UG9zc3EAfgAMEcg+4nQABUJsb2Nrc3EAfgAMz9EiE3QABVJpZ2h0c3EAfgAMeSFijHQAAmVxc3EAfgAMdpLJb3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADGT5L1F0AAVyaWdodHNxAH4ADIk0KBh0AAtkZWxheWVkSW5pdHNxAH4ADDcNim50AAIjI3NxAH4ADGA+95d0AAhmaW5hbGl6ZXNxAH4ADFt025l0AA5wcm9kdWN0RWxlbWVudHNxAH4ADKh4/st0AAhoYXNoQ29kZXNxAH4ADMPZYsB0AAVsZXZlbHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ALN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA9zdHJlYW1zLkJsb3hvcnp1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAQc2NhbGEuZGVwcmVjYXRlZHQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgDOeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgDNAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCzTAAJaW5oZXJpdGVkcQB+ALNMAAdwYXJlbnRzcQB+ALN4cQB+ANZzcQB+AM0BdXEAfgCuAAAAAHBzcQB+AM0BdXEAfgCuAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgC0cQB+AL11cQB+AL4AAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgDgeHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADUwABXZhbHVlcQB+AA14cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ANV0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4A1XNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4A+nNxAH4AwABxAH4AS3VxAH4AwwAAAABzcQB+AO10AARVbml0cQB+APN1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgDgeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgDGdAAFUGxhaW5xAH4AfXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4A7lsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4A1XNxAH4A7XQABUFycmF5cQB+APN1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4A7XQABlN0cmluZ3NxAH4A8XNxAH4A9HVxAH4A9wAAAANzcQB+APl0AARqYXZhc3EAfgD5dAAEbGFuZ3EAfgD+cHNxAH4AzQF1cQB+ARUAAAAEc3EAfgDtdAADQXBwcQB+APNzcQB+AO10AAtEZWxheWVkSW5pdHEAfgDzc3EAfgDtdAAGT2JqZWN0cQB+ARlzcQB+AO10AANBbnlxAH4A83BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAHc3RyZWFtc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVtX/12N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABIQzpcZGV2XGFwcFxjb3Vyc2VyYVxTY2FsYVwwMi1GUERcd2VlazJcc3RyZWFtc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUHx4SEOdjxfwMgjh+wN3DmpKdkRg=
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCzjSghAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAPXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cFlVlFN0AARkb3duc3EAfgAMvdJppnQABm5vdGlmeXNxAH4ADJcH+gt0AAd1bmFwcGx5c3EAfgAM2YYck3QAB2N1cnJpZWRzcQB+AAyD6c5edAABeHNxAH4ADBPgvq10AAdHYW1lRGVmc3EAfgAM7Df443QABHdhaXRzcQB+AAwKRO0bdAACYjJzcQB+AAwo6ULbdAAObGVnYWxOZWlnaGJvcnNzcQB+AAxNio2WdAAOY29weSRkZWZhdWx0JDJzcQB+AAyEyB9ddAANJGFzSW5zdGFuY2VPZnNxAH4ADJ3VVr90AAJkeXNxAH4ADNUkMQB0AAxwcm9kdWN0QXJpdHlzcQB+AAyODHg1dAAGZXF1YWxzc3EAfgAMWVC9GnQAAXlzcQB+AAxNWe4sdAACdXBzcQB+AAzwYvu0dAAMYXNJbnN0YW5jZU9mc3EAfgAMQKcRLXQACW5laWdoYm9yc3NxAH4ADIbMNrJ0AAxzeW5jaHJvbml6ZWRzcQB+AAyKNMe1dAAEbGVmdHNxAH4ADNPVQ4d0AA0kaXNJbnN0YW5jZU9mc3EAfgAM08k/N3QABnR1cGxlZHNxAH4ADOrNJQZ0AARnb2Fsc3EAfgAMs46yoXQAAmIxc3EAfgAMdshuMHQACGNhbkVxdWFsc3EAfgAMI/EFUHQADXByb2R1Y3RQcmVmaXhzcQB+AAyLhkh8dAAJbm90aWZ5QWxsc3EAfgAMyDn7U3QAC3JlYWRSZXNvbHZlc3EAfgAMhPHN43QADGlzSW5zdGFuY2VPZnNxAH4ADDlZ9Wh0AAY8aW5pdD5zcQB+AAzn/0dpdAAETW92ZXNxAH4ADBrWiP10AAVhcHBseXNxAH4ADKK9Wvt0AAI9PXNxAH4ADAQUrnl0AAREb3duc3EAfgAMO1PkinQABExlZnRzcQB+AAwdgMdIdAAFY2xvbmVzcQB+AAwFamkOdAAHdGVycmFpbnNxAH4ADC0HUs50AAYkaW5pdCRzcQB+AAwArlCadAAHaXNMZWdhbHNxAH4ADCuz9gt0AApzdGFydEJsb2Nrc3EAfgAMTwgz4HQACmlzU3RhbmRpbmdzcQB+AAy5kB8cdAACVXBzcQB+AAxOtzCHdAAEY29weXNxAH4ADC2x1rV0AAh0b1N0cmluZ3NxAH4ADEAiZh50AANQb3NzcQB+AAwUlQEjdAACIT1zcQB+AAwkFslTdAAIZ2V0Q2xhc3NzcQB+AAzNaSfIdAAOY29weSRkZWZhdWx0JDFzcQB+AAxfnoQbdAACZHhzcQB+AAyieO1OdAAHVGVycmFpbnNxAH4ADIy85Ll0AAJuZXNxAH4ADJUJ0n10AAhzdGFydFBvc3NxAH4ADMvT7L90AAVCbG9ja3NxAH4ADB75LzZ0AAVSaWdodHNxAH4ADObBo1t0AAJlcXNxAH4ADFoemSx0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAz+eouNdAAFcmlnaHRzcQB+AAyXRFAOdAACIyNzcQB+AAzMnDtwdAAIZmluYWxpemVzcQB+AAwMZeNXdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAzsJlyFdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCReHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHABdAAPc3RyZWFtcy5HYW1lRGVmdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAFVHJhaXR1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AKkBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AJFMAAlpbmhlcml0ZWRxAH4AkUwAB3BhcmVudHNxAH4AkXhxAH4AsHNxAH4AqQF1cQB+AIwAAAAAcHNxAH4AqQF1cQB+AIwAAAAAcHNxAH4AqQF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AK90AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AK9zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AMh0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AMlzcQB+ALx0AANBbnlzcQB+AMBzcQB+AMN1cQB+AMYAAAACc3EAfgDIdAAFc2NhbGFxAH4Az3BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAHc3RyZWFtc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVtZsh9l1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABIQzpcZGV2XGFwcFxjb3Vyc2VyYVxTY2FsYVwwMi1GUERcd2VlazJcc3RyZWFtc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUqev0iBAP5AhX10amEWdhYBK66/o=
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\InfiniteTerrain.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCRNzIlAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAPXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJif0hJ0AARkb3duc3EAfgAM7VYiKHQABm5vdGlmeXNxAH4ADPcLAUp0AAd1bmFwcGx5c3EAfgAMYSyYAXQAB2N1cnJpZWRzcQB+AAyGhdM2dAABeHNxAH4ADC++G+B0AAR3YWl0c3EAfgAMkfE+vnQAAmIyc3EAfgAMXQZ82XQADmxlZ2FsTmVpZ2hib3Jzc3EAfgAMQvc1RHQADmNvcHkkZGVmYXVsdCQyc3EAfgAMy4Bu4XQADSRhc0luc3RhbmNlT2ZzcQB+AAy98Zu+dAACZHlzcQB+AAx6Fc0MdAAMcHJvZHVjdEFyaXR5c3EAfgAMlcfm3HQABmVxdWFsc3NxAH4ADD/QVj50AAF5c3EAfgAMIENB9XQAAnVwc3EAfgAMFa5bXHQAD0luZmluaXRlVGVycmFpbnNxAH4ADPv55/F0AAxhc0luc3RhbmNlT2ZzcQB+AAwBz3Y2dAAJbmVpZ2hib3Jzc3EAfgAMSOQ90nQADHN5bmNocm9uaXplZHNxAH4ADFUF9uB0AARsZWZ0c3EAfgAM72U26nQADSRpc0luc3RhbmNlT2ZzcQB+AAwCR2jQdAAGdHVwbGVkc3EAfgAMGVsQfnQABGdvYWxzcQB+AAxZvGj5dAACYjFzcQB+AAySz6IcdAAIY2FuRXF1YWxzcQB+AAySOcfCdAANcHJvZHVjdFByZWZpeHNxAH4ADPpEyQ90AAlub3RpZnlBbGxzcQB+AAxI4fkpdAALcmVhZFJlc29sdmVzcQB+AAymiD1GdAAMaXNJbnN0YW5jZU9mc3EAfgAMxyoSjXQABjxpbml0PnNxAH4ADHrZ6+t0AARNb3Zlc3EAfgAMurek3nQABWFwcGx5c3EAfgAMwOFmL3QAAj09c3EAfgAM0ejxGnQABERvd25zcQB+AAyj0KvWdAAETGVmdHNxAH4ADKI2dEZ0AAVjbG9uZXNxAH4ADDlB3ht0AAd0ZXJyYWluc3EAfgAMyApaJXQABiRpbml0JHNxAH4ADKp8mUF0AAdpc0xlZ2Fsc3EAfgAMgRjmE3QACnN0YXJ0QmxvY2tzcQB+AAwwnQsVdAAKaXNTdGFuZGluZ3NxAH4ADM+vBPV0AAJVcHNxAH4ADCIhANt0AARjb3B5c3EAfgAMmHL2VXQACHRvU3RyaW5nc3EAfgAMDvd9n3QAA1Bvc3NxAH4ADOilu5h0AAIhPXNxAH4ADD6/97R0AAhnZXRDbGFzc3NxAH4ADGhPiPV0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADL+rtO90AAJkeHNxAH4ADBBpLyx0AAdUZXJyYWluc3EAfgAMCWTOt3QAAm5lc3EAfgAM89LEbnQACHN0YXJ0UG9zc3EAfgAM7OdJgnQABUJsb2Nrc3EAfgAMLnzBknQABVJpZ2h0c3EAfgAMsirCR3QAAmVxc3EAfgAMHoDz8HQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADHwBVd10AAVyaWdodHNxAH4ADL44HpR0AAIjI3NxAH4ADJU+P350AAhmaW5hbGl6ZXNxAH4ADM6Mrfd0AA5wcm9kdWN0RWxlbWVudHNxAH4ADBRhPZx0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AJF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAF0ABdzdHJlYW1zLkluZmluaXRlVGVycmFpbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABVRyYWl0dXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4Aqnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AqQBwc3EAfgCuc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AJFMAAlpbmhlcml0ZWRxAH4AkUwAB3BhcmVudHNxAH4AkXhxAH4AsnNxAH4AqQBwc3EAfgCudXEAfgCMAAAAAHNxAH4AqQBwc3EAfgCudXEAfgCMAAAAAHNxAH4AqQBwc3EAfgCudXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCxdAAHR2FtZURlZnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AsXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAHc3RyZWFtc3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDPc3EAfgDCdAAGT2JqZWN0c3EAfgDGc3EAfgDJdXEAfgDMAAAAA3NxAH4AznQABGphdmFzcQB+AM50AARsYW5ncQB+ANNzcQB+AMJ0AANBbnlzcQB+AMZzcQB+AMl1cQB+AMwAAAACc3EAfgDOdAAFc2NhbGFxAH4A03VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB3N0cmVhbXNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVbV/9djdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQASEM6XGRldlxhcHBcY291cnNlcmFcU2NhbGFcMDItRlBEXHdlZWsyXHN0cmVhbXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFLtDgw9sYbirKVU6+VkUbrnYhQ3/
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCHnwsYAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAARHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cHzfVeF0AARkb3duc3EAfgAMLlnRBXQABm5vdGlmeXNxAH4ADDA7eH10AAd1bmFwcGx5c3EAfgAMxuRtaXQAB2N1cnJpZWRzcQB+AAy6FS3DdAABeHNxAH4ADH42vf90AAR3YWl0c3EAfgAMCk1ZJ3QAAmIyc3EAfgAMLJsEz3QADmxlZ2FsTmVpZ2hib3Jzc3EAfgAMVUu52HQADmNvcHkkZGVmYXVsdCQyc3EAfgAMu3JSPnQADSRhc0luc3RhbmNlT2ZzcQB+AAzRinD2dAACZHlzcQB+AAyM1ql+dAAQbmV3TmVpZ2hib3JzT25seXNxAH4ADNMPu/B0AAxwcm9kdWN0QXJpdHlzcQB+AAyCbZQMdAAOcGF0aHNGcm9tU3RhcnRzcQB+AAywsncjdAAGZXF1YWxzc3EAfgAMXjhZj3QAAXlzcQB+AAy5bHZRdAACdXBzcQB+AAwIL7V4dAAMYXNJbnN0YW5jZU9mc3EAfgAMGbF0CHQACW5laWdoYm9yc3NxAH4ADKgPIUZ0AAxzeW5jaHJvbml6ZWRzcQB+AAzZS3wjdAAEbGVmdHNxAH4ADJwQPop0AA0kaXNJbnN0YW5jZU9mc3EAfgAMlJg5jnQABnR1cGxlZHNxAH4ADAvwJ1l0AARnb2Fsc3EAfgAMRrmpsHQAAmIxc3EAfgAMmjQNlHQACGNhbkVxdWFsc3EAfgAMkygfDXQADXByb2R1Y3RQcmVmaXhzcQB+AAzszmjDdAAJbm90aWZ5QWxsc3EAfgAMPVGEsnQAC3JlYWRSZXNvbHZlc3EAfgAMZH3qb3QADGlzSW5zdGFuY2VPZnNxAH4ADECjDB90AAhzb2x1dGlvbnNxAH4ADJpPrJ10AAY8aW5pdD5zcQB+AAwxhcUQdAAETW92ZXNxAH4ADCKUTbd0AAVhcHBseXNxAH4ADIisaKt0AAI9PXNxAH4ADFSOxGF0AAREb3duc3EAfgAMLkUX+XQABExlZnRzcQB+AAz3sqU3dAAFY2xvbmVzcQB+AAyVt4hRdAAHdGVycmFpbnNxAH4ADH2STmh0AAtwYXRoc1RvR29hbHNxAH4ADLcAgoF0AARmcm9tc3EAfgAMxUbQvHQABiRpbml0JHNxAH4ADOM7ptV0AAdpc0xlZ2Fsc3EAfgAM+SXN2HQACnN0YXJ0QmxvY2tzcQB+AAzpjdGgdAAKaXNTdGFuZGluZ3NxAH4ADE+d59t0AAJVcHNxAH4ADCJvpa90AARjb3B5c3EAfgAMZo/vOXQABGRvbmVzcQB+AAzP9FX6dAAGU29sdmVyc3EAfgAMiY3iH3QACHRvU3RyaW5nc3EAfgAMt9iswHQAA1Bvc3NxAH4ADAbWzFh0AAIhPXNxAH4ADEJUnEB0AAhnZXRDbGFzc3NxAH4ADF19ICh0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADH+PYWx0AAJkeHNxAH4ADAjpHWR0ABRuZWlnaGJvcnNXaXRoSGlzdG9yeXNxAH4ADNaHNVR0AAdUZXJyYWluc3EAfgAMuOjMgnQAAm5lc3EAfgAMTQ+6P3QACHN0YXJ0UG9zc3EAfgAM3q4F43QABUJsb2Nrc3EAfgAM1Kxd7HQABVJpZ2h0c3EAfgAML+5hU3QAAmVxc3EAfgAM92feF3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADJeJpzF0AAVyaWdodHNxAH4ADG0cw3J0AAIjI3NxAH4ADF7Q56t0AAhmaW5hbGl6ZXNxAH4ADDVCxdl0AA5wcm9kdWN0RWxlbWVudHNxAH4ADKwgQO10AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AJ94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAF0AA5zdHJlYW1zLlNvbHZlcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABVRyYWl0dXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgC3AXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCfTAAJaW5oZXJpdGVkcQB+AJ9MAAdwYXJlbnRzcQB+AJ94cQB+AL5zcQB+ALcBdXEAfgCaAAAAAHBzcQB+ALcBdXEAfgCaAAAAAHBzcQB+ALcBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgC9dAAHR2FtZURlZnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AvXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAHc3RyZWFtc3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDXc3EAfgDKdAAGT2JqZWN0c3EAfgDOc3EAfgDRdXEAfgDUAAAAA3NxAH4A1nQABGphdmFzcQB+ANZ0AARsYW5ncQB+ANtzcQB+AMp0AANBbnlzcQB+AM5zcQB+ANF1cQB+ANQAAAACc3EAfgDWdAAFc2NhbGFxAH4A23BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAHc3RyZWFtc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVt/x8l91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABIQzpcZGV2XGFwcFxjb3Vyc2VyYVxTY2FsYVwwMi1GUERcd2VlazJcc3RyZWFtc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUZ5gcfsLuw55qpwG8Q7gNe+Zw+Ug=
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHB07sIDAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAQXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLVGtDN0AARkb3duc3EAfgAMX+sB43QABm5vdGlmeXNxAH4ADP3BfkV0AAd1bmFwcGx5c3EAfgAMtDxbCnQAB2N1cnJpZWRzcQB+AAxwigVhdAABeHNxAH4ADD4RsD50AAR3YWl0c3EAfgAM1fqh/XQAAmIyc3EAfgAM/lyHInQADmxlZ2FsTmVpZ2hib3Jzc3EAfgAM82a11XQADmNvcHkkZGVmYXVsdCQyc3EAfgAMj1Zw0nQADSRhc0luc3RhbmNlT2ZzcQB+AAzaQda/dAACZHlzcQB+AAzQRxCqdAAMcHJvZHVjdEFyaXR5c3EAfgAMJ37PvHQABmVxdWFsc3NxAH4ADPivpT10AAF5c3EAfgAMJgldiHQAAnVwc3EAfgAMB+5/cXQADGFzSW5zdGFuY2VPZnNxAH4ADMIZrB10AAluZWlnaGJvcnNzcQB+AAzeYMUVdAAGdmVjdG9yc3EAfgAMCTIA/XQADHN5bmNocm9uaXplZHNxAH4ADAuVkjR0AARsZWZ0c3EAfgAMGnBqDHQADSRpc0luc3RhbmNlT2ZzcQB+AAzZ7qLndAAGdHVwbGVkc3EAfgAMop1MrHQABGdvYWxzcQB+AAx1kvjkdAACYjFzcQB+AAwoGsyBdAAIY2FuRXF1YWxzcQB+AAxJZMpzdAAPdGVycmFpbkZ1bmN0aW9uc3EAfgAMF7w3Q3QADXByb2R1Y3RQcmVmaXhzcQB+AAxdDwImdAAJbm90aWZ5QWxsc3EAfgAMaxu9e3QAC3JlYWRSZXNvbHZlc3EAfgAMNBPTfXQADGlzSW5zdGFuY2VPZnNxAH4ADAple290AAY8aW5pdD5zcQB+AAwd/4/fdAAETW92ZXNxAH4ADLZsYnp0AAVhcHBseXNxAH4ADCNWc8t0AAI9PXNxAH4ADP0v59B0AAREb3duc3EAfgAMtoQeMHQABExlZnRzcQB+AAzhbwbGdAAFY2xvbmVzcQB+AAwSpNqydAAHdGVycmFpbnNxAH4ADMrT1k90AAYkaW5pdCRzcQB+AAyKONAvdAAHaXNMZWdhbHNxAH4ADFlJ3PJ0AApzdGFydEJsb2Nrc3EAfgAMEnjrOnQACmlzU3RhbmRpbmdzcQB+AAwBvCtydAACVXBzcQB+AAxELzrAdAATU3RyaW5nUGFyc2VyVGVycmFpbnNxAH4ADJuwJLh0AARjb3B5c3EAfgAMA63IpnQACHRvU3RyaW5nc3EAfgAMRMNRz3QACGZpbmRDaGFyc3EAfgAM/jPmfXQAA1Bvc3NxAH4ADKdEIux0AAIhPXNxAH4ADIUWGqt0AAhnZXRDbGFzc3NxAH4ADB+6KiZ0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADPjCmk10AAJkeHNxAH4ADBwvxbB0AAdUZXJyYWluc3EAfgAMKpPVsXQAAm5lc3EAfgAMyz8123QACHN0YXJ0UG9zc3EAfgAMzbTk9nQABUJsb2Nrc3EAfgAMLdnEsnQABVJpZ2h0c3EAfgAML662vXQAAmVxc3EAfgAMpaoC9HQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADNvtN3N0AAVyaWdodHNxAH4ADIwbw7R0AAIjI3NxAH4ADF/eUYB0AAhmaW5hbGl6ZXNxAH4ADNTEdhB0AA5wcm9kdWN0RWxlbWVudHNxAH4ADKYwVax0AAhoYXNoQ29kZXNxAH4ADBUN5MF0AAVsZXZlbHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AJl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAF0ABtzdHJlYW1zLlN0cmluZ1BhcnNlclRlcnJhaW51cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAVUcmFpdHVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AsQFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AmUwACWluaGVyaXRlZHEAfgCZTAAHcGFyZW50c3EAfgCZeHEAfgC4c3EAfgCxAXVxAH4AlAAAAABwc3EAfgCxAXVxAH4AlAAAAABwc3EAfgCxAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4At3QAB0dhbWVEZWZzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ALdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQAB3N0cmVhbXNzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4A0XNxAH4AxHQABk9iamVjdHNxAH4AyHNxAH4Ay3VxAH4AzgAAAANzcQB+ANB0AARqYXZhc3EAfgDQdAAEbGFuZ3EAfgDVc3EAfgDEdAADQW55c3EAfgDIc3EAfgDLdXEAfgDOAAAAAnNxAH4A0HQABXNjYWxhcQB+ANVwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB3N0cmVhbXNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVbWKzCudXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQASEM6XGRldlxhcHBcY291cnNlcmFcU2NhbGFcMDItRlBEXHdlZWsyXHN0cmVhbXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFOO7gyX5MSA75TBLFF4YQmDdhjzf
+external apis:
+0 items
+source infos:
+6 items
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\common\package.scala -> 
+AAAAAAAAAAA=
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Bloxorz.scala -> 
+AAAAAAAAAAA=
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\GameDef.scala -> 
+AAAAAAAAAAA=
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\InfiniteTerrain.scala -> 
+AAAAAAAAAAA=
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\Solver.scala -> 
+AAAAAAAAAAA=
+C:\dev\app\coursera\Scala\02-FPD\week2\streams\src\main\scala\streams\StringParserTerrain.scala -> 
+AAAAAAAAAAA=
+compilations:
+33 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVtX/12N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XGRldlxhcHBcY291cnNlcmFcU2NhbGFcMDItRlBEXHdlZWsyXHN0cmVhbXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVtYCaLt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XGRldlxhcHBcY291cnNlcmFcU2NhbGFcMDItRlBEXHdlZWsyXHN0cmVhbXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVtYC0tZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XGRldlxhcHBcY291cnNlcmFcU2NhbGFcMDItRlBEXHdlZWsyXHN0cmVhbXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVtYIbzF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XGRldlxhcHBcY291cnNlcmFcU2NhbGFcMDItRlBEXHdlZWsyXHN0cmVhbXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVtYKKfV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XGRldlxhcHBcY291cnNlcmFcU2NhbGFcMDItRlBEXHdlZWsyXHN0cmVhbXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVtYLG1p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XGRldlxhcHBcY291cnNlcmFcU2NhbGFcMDItRlBEXHdlZWsyXHN0cmVhbXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVtYPrtl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XGRldlxhcHBcY291cnNlcmFcU2NhbGFcMDItRlBEXHdlZWsyXHN0cmVhbXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVtYQBat1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XGRldlxhcHBcY291cnNlcmFcU2NhbGFcMDItRlBEXHdlZWsyXHN0cmVhbXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVtYVlj11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XGRldlxhcHBcY291cnNlcmFcU2NhbGFcMDItRlBEXHdlZWsyXHN0cmVhbXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVtYZzal1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XGRldlxhcHBcY291cnNlcmFcU2NhbGFcMDItRlBEXHdlZWsyXHN0cmVhbXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVtYa7ix1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XGRldlxhcHBcY291cnNlcmFcU2NhbGFcMDItRlBEXHdlZWsyXHN0cmVhbXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVtYbWcV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XGRldlxhcHBcY291cnNlcmFcU2NhbGFcMDItRlBEXHdlZWsyXHN0cmVhbXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVtYc2y51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XGRldlxhcHBcY291cnNlcmFcU2NhbGFcMDItRlBEXHdlZWsyXHN0cmVhbXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVtYdSml1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XGRldlxhcHBcY291cnNlcmFcU2NhbGFcMDItRlBEXHdlZWsyXHN0cmVhbXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVtYeHat1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XGRldlxhcHBcY291cnNlcmFcU2NhbGFcMDItRlBEXHdlZWsyXHN0cmVhbXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVtYqcvJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XGRldlxhcHBcY291cnNlcmFcU2NhbGFcMDItRlBEXHdlZWsyXHN0cmVhbXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVtYrMK51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XGRldlxhcHBcY291cnNlcmFcU2NhbGFcMDItRlBEXHdlZWsyXHN0cmVhbXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVtZsh9l1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XGRldlxhcHBcY291cnNlcmFcU2NhbGFcMDItRlBEXHdlZWsyXHN0cmVhbXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVtZ7bNB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XGRldlxhcHBcY291cnNlcmFcU2NhbGFcMDItRlBEXHdlZWsyXHN0cmVhbXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVt+sAyV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XGRldlxhcHBcY291cnNlcmFcU2NhbGFcMDItRlBEXHdlZWsyXHN0cmVhbXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVt+1dD11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XGRldlxhcHBcY291cnNlcmFcU2NhbGFcMDItRlBEXHdlZWsyXHN0cmVhbXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+21 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVt+3n5N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XGRldlxhcHBcY291cnNlcmFcU2NhbGFcMDItRlBEXHdlZWsyXHN0cmVhbXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+22 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVt+45dh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XGRldlxhcHBcY291cnNlcmFcU2NhbGFcMDItRlBEXHdlZWsyXHN0cmVhbXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+23 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVt/DMZx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XGRldlxhcHBcY291cnNlcmFcU2NhbGFcMDItRlBEXHdlZWsyXHN0cmVhbXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+24 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVt/F9cd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XGRldlxhcHBcY291cnNlcmFcU2NhbGFcMDItRlBEXHdlZWsyXHN0cmVhbXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+25 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVt/VDyB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XGRldlxhcHBcY291cnNlcmFcU2NhbGFcMDItRlBEXHdlZWsyXHN0cmVhbXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+26 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVt/Xecl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XGRldlxhcHBcY291cnNlcmFcU2NhbGFcMDItRlBEXHdlZWsyXHN0cmVhbXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+27 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVt/aIvR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XGRldlxhcHBcY291cnNlcmFcU2NhbGFcMDItRlBEXHdlZWsyXHN0cmVhbXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+28 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVt/buGZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XGRldlxhcHBcY291cnNlcmFcU2NhbGFcMDItRlBEXHdlZWsyXHN0cmVhbXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+29 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVt/gkT91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XGRldlxhcHBcY291cnNlcmFcU2NhbGFcMDItRlBEXHdlZWsyXHN0cmVhbXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+30 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVt/vn+B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XGRldlxhcHBcY291cnNlcmFcU2NhbGFcMDItRlBEXHdlZWsyXHN0cmVhbXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+31 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVt/xcBp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XGRldlxhcHBcY291cnNlcmFcU2NhbGFcMDItRlBEXHdlZWsyXHN0cmVhbXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+32 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVt/x8l91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XGRldlxhcHBcY291cnNlcmFcU2NhbGFcMDItRlBEXHdlZWsyXHN0cmVhbXNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=

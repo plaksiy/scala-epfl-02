@@ -1,0 +1,8 @@
+[0m[[0minfo[0m] [0m+ Heap.gen1: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.min1: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.gen2: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.ins-del: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.del-elem-from-empty: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.sort-seq: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.sort-seq1: OK, passed 100 tests.[0m
+[0m[[0minfo[0m] [0m+ Heap.min-of-meld1: OK, passed 100 tests.[0m
